@@ -1,2 +1,2 @@
 # flyingboard
-A mod for the game Minetest (outdayed)
+A mod for the game Minetest
